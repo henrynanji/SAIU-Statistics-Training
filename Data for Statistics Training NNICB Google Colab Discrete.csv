@@ -1,0 +1,124 @@
+Patient_ID,ED_Attendance_Date,ED_Location,Admitted_To_Ward,Ward_Transferred_To,Diagnosis_ICD10_Code,Diagnosis_ICD10_Description,Sex,Ethnicity,Language,Post_Code
+1,08/11/2023,NUH,0,SDEC,J410,Simple chronic bronchitis,F,White,English,NG2 3LP
+2,15/12/2023,SFH,1,Opthamology_3,H477,"Disorder of visual pathways, unspecified",F,Mixed/Multiple ethnic group,English,NW5 9TR
+3,13/04/2023,NUH,1,Renal_1,N179,"Acute renal failure, unspecified",M,Black/African/Caribbean/Black British,English,LE54 8YD
+4,09/04/2023,NUH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,F,Asian/Asian British,English,E1 6AN
+5,14/09/2023,NUH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,M,Asian/Asian British,Mandarin,SW1A 1AA
+6,27/10/2023,SFH,0,SDEC,R042,Haemoptysis,M,Black/African/Caribbean/Black British,English,NW5 9TR
+7,11/08/2023,NUH,0,SDEC,J459,"Asthma, unspecified",M,White,English,NG2 3LP
+8,30/11/2023,NUH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,F,Black/African/Caribbean/Black British,English,NW5 9TR
+9,28/04/2023,SFH,1,Opthamology_3,H477,"Disorder of visual pathways, unspecified",M,Black/African/Caribbean/Black British,English,NG2 3LP
+10,31/10/2023,NUH,0,SDEC,R042,Haemoptysis,M,White,English,NG2 3LP
+11,23/01/2023,NUH,0,SDEC,J410,Simple chronic bronchitis,F,Mixed/Multiple ethnic group,English,NW5 9TR
+12,26/03/2023,NUH,0,SDEC,J410,Simple chronic bronchitis,F,Black/African/Caribbean/Black British,English,NW5 9TR
+13,03/06/2023,NUH,0,SDEC,J410,Simple chronic bronchitis,M,White,English,SW1A 1AA
+14,06/09/2023,NUH,1,Renal_1,N179,"Acute renal failure, unspecified",F,Black/African/Caribbean/Black British,English,E1 6AN
+15,13/09/2023,SFH,1,Renal_1,N179,"Acute renal failure, unspecified",M,White,English,NG2 3LP
+16,22/01/2023,NUH,0,SDEC,J410,Simple chronic bronchitis,M,Black/African/Caribbean/Black British,English,NG2 3LP
+17,21/04/2023,SFH,1,Respiratory_1,J459,"Asthma, unspecified",M,White,English,NG2 3LP
+18,19/09/2023,NUH,0,SDEC,J459,"Asthma, unspecified",M,White,English,SW1A 1AA
+19,25/11/2023,SFH,1,Opthamology_3,H477,"Disorder of visual pathways, unspecified",F,Asian/Asian British,English,NW5 9TR
+20,17/11/2023,NUH,1,Renal_1,N179,"Acute renal failure, unspecified",F,Black/African/Caribbean/Black British,English,E1 6AN
+21,01/08/2023,SFH,0,SDEC,R042,Haemoptysis,M,Asian/Asian British,Urdu,E1 6AN
+22,29/12/2023,NUH,0,SDEC,R042,Haemoptysis,F,Mixed/Multiple ethnic group,English,NG2 3LP
+23,18/05/2023,NUH,1,Renal_1,N179,"Acute renal failure, unspecified",F,Black/African/Caribbean/Black British,English,SW1A 1AA
+24,25/03/2023,NUH,1,Renal_1,N179,"Acute renal failure, unspecified",M,White,English,NW5 9TR
+25,12/09/2023,NUH,0,SDEC,R042,Haemoptysis,M,White,English,SW1A 1AA
+26,12/04/2023,SFH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,M,Asian/Asian British,English,LE54 8YD
+27,29/03/2023,NUH,0,SDEC,J410,Simple chronic bronchitis,M,White,English,NW5 9TR
+28,08/09/2023,NUH,0,SDEC,R042,Haemoptysis,F,White,English,NG2 3LP
+29,23/04/2023,SFH,0,SDEC,R042,Haemoptysis,F,Asian/Asian British,English,SW1A 1AA
+30,20/08/2023,SFH,1,Renal_1,N179,"Acute renal failure, unspecified",F,Asian/Asian British,English,SW1A 1AA
+31,16/05/2023,SFH,0,SDEC,J410,Simple chronic bronchitis,M,Black/African/Caribbean/Black British,English,SW1A 1AA
+32,27/12/2023,NUH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,F,Black/African/Caribbean/Black British,English,NW5 9TR
+33,19/10/2023,SFH,0,SDEC,J410,Simple chronic bronchitis,F,Mixed/Multiple ethnic group,English,NW5 9TR
+34,26/05/2023,NUH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,F,Black/African/Caribbean/Black British,English,NW5 9TR
+35,22/12/2023,NUH,0,SDEC,J459,"Asthma, unspecified",M,Black/African/Caribbean/Black British,English,E1 6AN
+36,05/05/2023,NUH,0,SDEC,J410,Simple chronic bronchitis,M,Asian/Asian British,English,LE54 8YD
+37,24/10/2023,NUH,0,SDEC,R042,Haemoptysis,M,Black/African/Caribbean/Black British,English,SW1A 1AA
+38,13/04/2023,SFH,0,SDEC,R042,Haemoptysis,M,White,English,LE54 8YD
+39,19/05/2023,SFH,1,Opthamology_3,H477,"Disorder of visual pathways, unspecified",F,Black/African/Caribbean/Black British,English,SW1A 1AA
+40,11/07/2023,NUH,0,SDEC,J459,"Asthma, unspecified",M,Black/African/Caribbean/Black British,English,LE54 8YD
+41,20/12/2023,NUH,1,Opthamology_3,H477,"Disorder of visual pathways, unspecified",F,Black/African/Caribbean/Black British,English,E1 6AN
+42,20/06/2023,SFH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,F,Asian/Asian British,English,NW5 9TR
+43,22/04/2023,NUH,0,SDEC,J459,"Asthma, unspecified",M,Black/African/Caribbean/Black British,English,NW5 9TR
+44,09/02/2023,NUH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,F,Mixed/Multiple ethnic group,English,SW1A 1AA
+45,07/05/2023,NUH,0,SDEC,J410,Simple chronic bronchitis,M,White,English,E1 6AN
+46,10/02/2023,NUH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,M,Black/African/Caribbean/Black British,English,LE54 8YD
+47,19/10/2023,NUH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,F,White,English,SW1A 1AA
+48,26/12/2023,SFH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,F,White,English,NW5 9TR
+49,13/07/2023,NUH,0,SDEC,J410,Simple chronic bronchitis,M,Asian/Asian British,English,LE54 8YD
+50,28/04/2023,SFH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,M,Asian/Asian British,English,NW5 9TR
+51,04/11/2023,NUH,0,SDEC,R042,Haemoptysis,M,White,English,SW1A 1AA
+52,17/09/2023,NUH,0,SDEC,J410,Simple chronic bronchitis,M,Mixed/Multiple ethnic group,English,SW1A 1AA
+53,28/06/2023,SFH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,M,Asian/Asian British,English,LE54 8YD
+54,31/05/2023,NUH,1,Opthamology_3,H477,"Disorder of visual pathways, unspecified",M,Black/African/Caribbean/Black British,English,NW5 9TR
+55,13/11/2023,NUH,1,Renal_1,N179,"Acute renal failure, unspecified",M,White,English,LE54 8YD
+56,22/02/2023,SFH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,M,White,English,SW1A 1AA
+57,21/06/2023,NUH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,F,Asian/Asian British,English,E1 6AN
+58,24/12/2023,NUH,0,SDEC,J410,Simple chronic bronchitis,M,Asian/Asian British,English,NW5 9TR
+59,02/03/2023,NUH,1,Opthamology_3,H477,"Disorder of visual pathways, unspecified",M,Black/African/Caribbean/Black British,English,NW5 9TR
+60,07/08/2023,NUH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,F,White,English,SW1A 1AA
+61,06/07/2023,SFH,0,SDEC,R042,Haemoptysis,M,White,English,SW1A 1AA
+62,03/03/2023,NUH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,M,White,English,SW1A 1AA
+63,16/02/2023,SFH,1,Opthamology_3,H477,"Disorder of visual pathways, unspecified",M,Mixed/Multiple ethnic group,Spanish,NG2 3LP
+64,08/03/2023,SFH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,F,Mixed/Multiple ethnic group,English,NG2 3LP
+65,24/01/2023,SFH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,F,Mixed/Multiple ethnic group,English,SW1A 1AA
+66,10/01/2023,NUH,0,SDEC,J459,"Asthma, unspecified",F,Asian/Asian British,English,SW1A 1AA
+67,01/05/2023,SFH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,M,White,English,LE54 8YD
+68,30/05/2023,NUH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,M,White,English,LE54 8YD
+69,10/09/2023,SFH,1,Respiratory_1,J459,"Asthma, unspecified",F,White,English,E1 6AN
+70,05/08/2023,NUH,0,SDEC,J459,"Asthma, unspecified",F,Asian/Asian British,English,NW5 9TR
+71,22/03/2023,SFH,0,SDEC,R042,Haemoptysis,F,White,English,E1 6AN
+72,06/07/2023,NUH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,F,Black/African/Caribbean/Black British,English,LE54 8YD
+73,10/09/2023,NUH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,F,Asian/Asian British,English,SW1A 1AA
+74,07/04/2023,SFH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,F,White,English,LE54 8YD
+75,16/09/2023,NUH,0,SDEC,J410,Simple chronic bronchitis,F,White,English,SW1A 1AA
+76,04/08/2023,SFH,0,SDEC,J459,"Asthma, unspecified",M,Asian/Asian British,English,E1 6AN
+77,21/08/2023,NUH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,F,Asian/Asian British,English,E1 6AN
+78,11/12/2023,SFH,0,SDEC,R042,Haemoptysis,F,Black/African/Caribbean/Black British,English,NG2 3LP
+79,02/05/2023,NUH,1,Renal_1,N179,"Acute renal failure, unspecified",M,Asian/Asian British,English,E1 6AN
+80,11/06/2023,NUH,0,SDEC,J459,"Asthma, unspecified",F,White,English,NG2 3LP
+81,03/12/2023,NUH,1,Renal_1,N179,"Acute renal failure, unspecified",M,Mixed/Multiple ethnic group,English,NW5 9TR
+82,08/06/2023,NUH,1,Opthamology_3,H477,"Disorder of visual pathways, unspecified",M,Black/African/Caribbean/Black British,English,LE54 8YD
+83,02/08/2023,NUH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,M,Black/African/Caribbean/Black British,French,E1 6AN
+84,24/10/2023,NUH,0,SDEC,J459,"Asthma, unspecified",M,Asian/Asian British,English,SW1A 1AA
+85,15/08/2023,NUH,0,SDEC,J459,"Asthma, unspecified",M,Asian/Asian British,English,LE54 8YD
+86,08/04/2023,NUH,0,SDEC,J410,Simple chronic bronchitis,F,Black/African/Caribbean/Black British,English,SW1A 1AA
+87,19/05/2023,NUH,1,Respiratory_1,J459,"Asthma, unspecified",M,Black/African/Caribbean/Black British,French,NG2 3LP
+88,07/04/2023,NUH,1,Opthamology_3,H477,"Disorder of visual pathways, unspecified",F,Asian/Asian British,English,NG2 3LP
+89,14/02/2023,SFH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,F,Mixed/Multiple ethnic group,English,NW5 9TR
+90,13/12/2023,NUH,0,SDEC,R042,Haemoptysis,F,White,English,NG2 3LP
+91,16/02/2023,NUH,0,SDEC,J410,Simple chronic bronchitis,F,Black/African/Caribbean/Black British,English,NW5 9TR
+92,09/01/2023,NUH,1,Renal_1,N179,"Acute renal failure, unspecified",M,White,English,NW5 9TR
+93,26/05/2023,NUH,1,Opthamology_3,H477,"Disorder of visual pathways, unspecified",F,Mixed/Multiple ethnic group,English,SW1A 1AA
+94,15/11/2023,NUH,0,SDEC,J410,Simple chronic bronchitis,M,Black/African/Caribbean/Black British,English,NW5 9TR
+95,24/01/2023,SFH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,M,Mixed/Multiple ethnic group,English,E1 6AN
+96,15/08/2023,NUH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,M,Black/African/Caribbean/Black British,Spanish,SW1A 1AA
+97,20/04/2023,NUH,0,SDEC,J459,"Asthma, unspecified",F,Black/African/Caribbean/Black British,English,SW1A 1AA
+98,17/04/2023,NUH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,M,Black/African/Caribbean/Black British,English,SW1A 1AA
+99,02/12/2023,SFH,1,Opthamology_3,H477,"Disorder of visual pathways, unspecified",F,Asian/Asian British,Hindi,LE54 8YD
+100,09/11/2023,NUH,0,SDEC,R042,Haemoptysis,F,Black/African/Caribbean/Black British,English,E1 6AN
+101,03/03/2023,NUH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,M,White,English,SW1A 1AA
+102,16/02/2023,SFH,1,Opthamology_3,H477,"Disorder of visual pathways, unspecified",M,Mixed/Multiple ethnic group,Spanish,NG2 3LP
+103,08/03/2023,SFH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,F,Mixed/Multiple ethnic group,English,NG2 3LP
+104,24/01/2023,SFH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,F,Mixed/Multiple ethnic group,English,SW1A 1AA
+105,10/01/2023,NUH,0,SDEC,J459,"Asthma, unspecified",F,Asian/Asian British,English,SW1A 1AA
+106,01/05/2023,SFH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,M,White,English,LE54 8YD
+107,30/05/2023,NUH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,M,White,English,LE54 8YD
+108,10/09/2023,SFH,1,Respiratory_1,J459,"Asthma, unspecified",F,White,English,E1 6AN
+109,05/08/2023,NUH,0,SDEC,J459,"Asthma, unspecified",F,Asian/Asian British,English,NW5 9TR
+110,22/03/2023,SFH,0,SDEC,R042,Haemoptysis,F,White,English,E1 6AN
+111,06/07/2023,NUH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,F,Black/African/Caribbean/Black British,English,LE54 8YD
+112,10/09/2023,NUH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,F,Asian/Asian British,English,SW1A 1AA
+113,07/04/2023,SFH,1,Trauma_and_Ortho_2,S026,Fracture of mandible,F,White,English,LE54 8YD
+114,16/09/2023,NUH,0,SDEC,J410,Simple chronic bronchitis,F,White,English,SW1A 1AA
+115,04/08/2023,SFH,0,SDEC,J459,"Asthma, unspecified",M,Asian/Asian British,English,E1 6AN
+116,21/08/2023,NUH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,F,Asian/Asian British,English,E1 6AN
+117,11/12/2023,SFH,0,SDEC,R042,Haemoptysis,F,Black/African/Caribbean/Black British,English,NG2 3LP
+118,02/05/2023,NUH,1,Renal_1,N179,"Acute renal failure, unspecified",M,Asian/Asian British,English,E1 6AN
+119,11/06/2023,NUH,0,SDEC,J459,"Asthma, unspecified",F,White,English,NG2 3LP
+120,03/12/2023,NUH,1,Renal_1,N179,"Acute renal failure, unspecified",M,Mixed/Multiple ethnic group,English,NW5 9TR
+121,08/06/2023,NUH,1,Opthamology_3,H477,"Disorder of visual pathways, unspecified",M,Black/African/Caribbean/Black British,English,LE54 8YD
+122,02/08/2023,NUH,1,Head_and_Neck_2,F454,Persistent somatoform pain disorder,M,Black/African/Caribbean/Black British,French,E1 6AN
+123,24/10/2023,NUH,0,SDEC,J459,"Asthma, unspecified",M,Asian/Asian British,English,SW1A 1AA
